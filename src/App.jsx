@@ -21,8 +21,11 @@ function App() {
         <p>HOSGELDINIZ!..</p>
         <i>yeni eklenti 4</i>
         <p>
+
          Git ve github ogreniyorum/tofi ve tural
-        </p>
+
+         Archis academy github kursuna hosgeldiniz!
+</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
